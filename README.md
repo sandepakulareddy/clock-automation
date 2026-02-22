@@ -1,4 +1,4 @@
-# 🚀 Android Clock Alarm Automation
+# 🚀 Android Clock-Alarm Automation
 
 Professional Node.js automation script using **Appium**, **WebdriverIO**, and **BrowserStack** to automate the Android system Clock (Alarms & Clock) app.
 
